@@ -48,5 +48,5 @@ Projects in RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 *****
 1. English(B1)
 2. Ukrainian(native)
-3. Rassian(native)
+3. Russian(native)
 4. Polish(B2)
